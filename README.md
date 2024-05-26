@@ -7,7 +7,7 @@ Yeeting my pre-existing LunarVim config at 01:00 AM might be one of the worst id
 ### Basic Setup
 - [x] Initialize a git repo
 - [x] Create `init.lua`
-- [ ] Add basic options
+- [x] Add basic options
 - [ ] Add keymaps
 - [ ] Install `lazy.nvim`
 
